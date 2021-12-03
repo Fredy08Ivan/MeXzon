@@ -26,8 +26,8 @@ function home() {
                         <div className="col-md-4">
                             <img src="img/ciclo-compra.png" alt="..." className="imge-c" width="450px" height="236px" />
                         </div>
-        //mofificacion linea de 8 a 7//
-                        <div className="col-md-7 txt-card">
+        //mofificacion linea de 8 a 6//
+                        <div className="col-md-6 txt-card">
                             <div className="card-body">
                                 <h5 className="card-title txt-card">MeXzon es para tí</h5>
                                 <p className="card-text txt-card">
