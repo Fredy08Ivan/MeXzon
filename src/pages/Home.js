@@ -21,7 +21,7 @@ function home() {
             <br></br>
             <div className="container-fluid" >
         //cambio de linea mb-4//
-                <div className="card border-dark mb-4">
+                <div className="card border-dark mb-4" style="width:820px">
                     <div className="row g-0">
                         <div className="col-md-4">
                             <img src="img/ciclo-compra.png" alt="..." className="imge-c" width="450px" height="236px" />
