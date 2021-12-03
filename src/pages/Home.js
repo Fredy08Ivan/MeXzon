@@ -20,13 +20,14 @@ function home() {
             <br></br>
             <br></br>
             <div className="container-fluid" >
-                <div className="card border-dark mb-3">
+        //cambio de linea mb-4//
+                <div className="card border-dark mb-4">
                     <div className="row g-0">
                         <div className="col-md-4">
                             <img src="img/ciclo-compra.png" alt="..." className="imge-c" width="450px" height="236px" />
                         </div>
         //mofificacion linea de 8 a 7//
-                        <div className=" txt-card">
+                        <div className="col-md-7 txt-card">
                             <div className="card-body">
                                 <h5 className="card-title txt-card">MeXzon es para tí</h5>
                                 <p className="card-text txt-card">
