@@ -29,7 +29,7 @@ function home() {
         //mofificacion linea de 8 a 6//
                         <div className="col-md-8 txt-card">
         //se agrego height""
-                            <div className="card-body" style:"height:300px">
+                            <div className="card-body" style:"height:1300px">
                                 <h5 className="card-title txt-card">MeXzon es para tí</h5>
                                 <p className="card-text txt-card">
                                     Las aplicaciones móviles son la razón por la que los usuarios pasan cada vez más tiempo en sus teléfonos, pues estas simplifican
